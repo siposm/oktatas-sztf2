@@ -1,0 +1,8 @@
+C:\Users\sm\Desktop\oroklodes\la01_3_virtualis_metodusok\bin\Debug\la01_3_virtualis_metodusok.exe.config
+C:\Users\sm\Desktop\oroklodes\la01_3_virtualis_metodusok\bin\Debug\la01_3_virtualis_metodusok.exe
+C:\Users\sm\Desktop\oroklodes\la01_3_virtualis_metodusok\bin\Debug\la01_3_virtualis_metodusok.pdb
+C:\Users\sm\Desktop\oroklodes\la01_3_virtualis_metodusok\obj\Debug\la01_3_virtualis_metodusok.exe
+C:\Users\sm\Desktop\oroklodes\la01_3_virtualis_metodusok\obj\Debug\la01_3_virtualis_metodusok.pdb
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA01\oroklodes\la01_3_virtualis_metodusok\bin\Debug\la01_3_virtualis_metodusok.exe.config
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA01\oroklodes\la01_3_virtualis_metodusok\obj\Debug\la01_3_virtualis_metodusok.exe
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA01\oroklodes\la01_3_virtualis_metodusok\obj\Debug\la01_3_virtualis_metodusok.pdb

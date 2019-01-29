@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\bin\Debug\kivkez_3.exe.config
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\bin\Debug\kivkez_3.exe
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\bin\Debug\kivkez_3.pdb
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\obj\Debug\kivkez_3.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\obj\Debug\kivkez_3.exe
+C:\Users\sm\Desktop\kivetelkezeles\kivkez_3\obj\Debug\kivkez_3.pdb

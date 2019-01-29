@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\interfeszek\interfeszek\bin\Debug\interfeszek.exe.config
+C:\Users\sm\Desktop\interfeszek\interfeszek\obj\Debug\interfeszek.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\interfeszek\interfeszek\bin\Debug\interfeszek.exe
+C:\Users\sm\Desktop\interfeszek\interfeszek\bin\Debug\interfeszek.pdb
+C:\Users\sm\Desktop\interfeszek\interfeszek\obj\Debug\interfeszek.exe
+C:\Users\sm\Desktop\interfeszek\interfeszek\obj\Debug\interfeszek.pdb

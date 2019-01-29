@@ -1,0 +1,7 @@
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/bin/Debug/AbstractVSInterface.exe.config
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/bin/Debug/AbstractVSInterface.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/bin/Debug/AbstractVSInterface.pdb
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/obj/Debug/03_AbstractVSInterface.csprojResolveAssemblyReference.cache
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/obj/Debug/03_AbstractVSInterface.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/obj/Debug/AbstractVSInterface.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/AbstractVSInterface/obj/Debug/AbstractVSInterface.pdb

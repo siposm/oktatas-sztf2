@@ -1,0 +1,18 @@
+C:/Users/sm/Desktop/oroklodes/oroklodes/bin/Debug/oroklodes.exe.config
+C:/Users/sm/Desktop/oroklodes/oroklodes/bin/Debug/oroklodes.exe
+C:/Users/sm/Desktop/oroklodes/oroklodes/bin/Debug/oroklodes.pdb
+C:/Users/sm/Desktop/oroklodes/oroklodes/obj/Debug/la01_1_orokolodes_alapok.csprojResolveAssemblyReference.cache
+C:/Users/sm/Desktop/oroklodes/oroklodes/obj/Debug/oroklodes.exe
+C:/Users/sm/Desktop/oroklodes/oroklodes/obj/Debug/oroklodes.pdb
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01/oroklodes/oroklodes/bin/Debug/oroklodes.exe.config
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01/oroklodes/oroklodes/obj/Debug/oroklodes.exe
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01/oroklodes/oroklodes/obj/Debug/oroklodes.pdb
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01 - oroklodes/oroklodes/oroklodes/bin/Debug/oroklodes.exe.config
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01 - oroklodes/oroklodes/oroklodes/obj/Debug/oroklodes.exe
+//Mac/Home/Documents/_OKTATÁS PROG2/LA01 - oroklodes/oroklodes/oroklodes/obj/Debug/oroklodes.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/bin/Debug/oroklodes.exe.config
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/bin/Debug/oroklodes.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/bin/Debug/oroklodes.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/obj/Debug/la01_1_orokolodes_alapok.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/obj/Debug/oroklodes.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LA01 - öröklődés/oroklodes/oroklodes/obj/Debug/oroklodes.pdb

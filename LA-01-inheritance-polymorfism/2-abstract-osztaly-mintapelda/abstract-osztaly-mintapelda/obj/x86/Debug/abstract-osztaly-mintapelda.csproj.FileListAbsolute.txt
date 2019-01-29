@@ -1,0 +1,6 @@
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/bin/Debug/abstract-osztaly-mintapelda.exe
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/bin/Debug/abstract-osztaly-mintapelda.pdb
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/obj/x86/Debug/abstract-osztaly-mintapelda.csprojAssemblyReference.cache
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/obj/x86/Debug/abstract-osztaly-mintapelda.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/obj/x86/Debug/abstract-osztaly-mintapelda.exe
+/Users/siposmiki/Projects/abstract-osztaly-mintapelda/abstract-osztaly-mintapelda/obj/x86/Debug/abstract-osztaly-mintapelda.pdb

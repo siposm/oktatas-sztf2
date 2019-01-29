@@ -1,0 +1,10 @@
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_alakzatok\bin\Debug\1_orokles_alakzatok.exe
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_alakzatok\bin\Debug\1_orokles_alakzatok.pdb
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\ResolveAssemblyReference.cache
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\1_orokles_alakzatok.exe
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\1_orokles_alakzatok.pdb
+X:\UniObuda\Documents\PPT\PPT_gyakorlat_oktato\1_orokles_alakzatok\bin\Debug\1_orokles_alakzatok.exe
+X:\UniObuda\Documents\PPT\PPT_gyakorlat_oktato\1_orokles_alakzatok\bin\Debug\1_orokles_alakzatok.pdb
+X:\UniObuda\Documents\PPT\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\ResolveAssemblyReference.cache
+X:\UniObuda\Documents\PPT\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\1_orokles_alakzatok.exe
+X:\UniObuda\Documents\PPT\PPT_gyakorlat_oktato\1_orokles_alakzatok\obj\Debug\1_orokles_alakzatok.pdb

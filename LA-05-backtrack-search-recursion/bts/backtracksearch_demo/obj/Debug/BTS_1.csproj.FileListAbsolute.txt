@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\rekurzio\backtracksearch_demo\bin\Debug\backtracksearch_demo.exe.config
+C:\Users\sm\Desktop\rekurzio\backtracksearch_demo\obj\Debug\backtracksearch_demo.exe
+C:\Users\sm\Desktop\rekurzio\backtracksearch_demo\obj\Debug\backtracksearch_demo.pdb
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\rekurzio\backtracksearch_demo\bin\Debug\backtracksearch_demo.exe.config
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\rekurzio\backtracksearch_demo\obj\Debug\backtracksearch_demo.exe
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\rekurzio\backtracksearch_demo\obj\Debug\backtracksearch_demo.pdb

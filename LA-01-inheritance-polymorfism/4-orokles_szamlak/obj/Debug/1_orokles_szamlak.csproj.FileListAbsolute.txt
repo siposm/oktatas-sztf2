@@ -1,0 +1,5 @@
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_szamlak\obj\Debug\ResolveAssemblyReference.cache
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_szamlak\bin\Debug\1_orokles_szamlak.exe
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_szamlak\bin\Debug\1_orokles_szamlak.pdb
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_szamlak\obj\Debug\1_orokles_szamlak.exe
+Q:\BMF\Tananyag\PPT\Labor\PPT_gyakorlat_oktato\1_orokles_szamlak\obj\Debug\1_orokles_szamlak.pdb

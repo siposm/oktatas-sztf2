@@ -1,0 +1,6 @@
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/bin/Debug/interfeszek.exe.config
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/bin/Debug/interfeszek.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/bin/Debug/interfeszek.pdb
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/obj/Debug/01_interfeszek.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/obj/Debug/interfeszek.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfeszek/obj/Debug/interfeszek.pdb

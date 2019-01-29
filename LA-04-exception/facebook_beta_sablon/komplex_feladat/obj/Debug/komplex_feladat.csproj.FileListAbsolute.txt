@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\bin\Debug\komplex_feladat.exe.config
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\obj\Debug\komplex_feladat.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\bin\Debug\komplex_feladat.exe
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\bin\Debug\komplex_feladat.pdb
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\obj\Debug\komplex_feladat.exe
+C:\Users\sm\Desktop\komplex_feladat\komplex_feladat\obj\Debug\komplex_feladat.pdb

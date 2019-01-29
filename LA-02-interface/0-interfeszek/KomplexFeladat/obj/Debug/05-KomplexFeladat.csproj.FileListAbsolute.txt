@@ -1,0 +1,6 @@
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/bin/Debug/KomplexFeladat.exe.config
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/bin/Debug/KomplexFeladat.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/bin/Debug/KomplexFeladat.pdb
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/obj/Debug/05-KomplexFeladat.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/obj/Debug/KomplexFeladat.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/KomplexFeladat/obj/Debug/KomplexFeladat.pdb

@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\bin\Debug\interfesz-oroklodes.exe.config
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\obj\Debug\interfesz-kiterjesztes.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\bin\Debug\interfesz-oroklodes.exe
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\bin\Debug\interfesz-oroklodes.pdb
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\obj\Debug\interfesz-oroklodes.exe
+C:\Users\sm\Desktop\interfeszek\interfesz-oroklodes\obj\Debug\interfesz-oroklodes.pdb

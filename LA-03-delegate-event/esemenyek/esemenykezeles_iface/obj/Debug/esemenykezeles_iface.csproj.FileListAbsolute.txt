@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\bin\Debug\esemenykezeles_iface.exe.config
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\bin\Debug\esemenykezeles_iface.exe
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\bin\Debug\esemenykezeles_iface.pdb
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\obj\Debug\esemenykezeles_iface.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\obj\Debug\esemenykezeles_iface.exe
+C:\Users\sm\Desktop\esemenyek\esemenykezeles_iface\obj\Debug\esemenykezeles_iface.pdb

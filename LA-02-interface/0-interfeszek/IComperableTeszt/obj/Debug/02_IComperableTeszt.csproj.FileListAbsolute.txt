@@ -1,0 +1,6 @@
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/bin/Debug/IComperableTeszt.exe.config
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/bin/Debug/IComperableTeszt.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/bin/Debug/IComperableTeszt.pdb
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/obj/Debug/02_IComperableTeszt.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/obj/Debug/IComperableTeszt.exe
+/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/IComperableTeszt/obj/Debug/IComperableTeszt.pdb

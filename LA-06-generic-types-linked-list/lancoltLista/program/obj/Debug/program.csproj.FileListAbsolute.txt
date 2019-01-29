@@ -1,0 +1,13 @@
+C:\Users\sm\Desktop\program\program\bin\Debug\program.exe.config
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\bin\Debug\program.exe.config
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\bin\Debug\program.exe
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\bin\Debug\program.pdb
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\obj\Debug\program.exe
+\\Mac\Home\Documents\_OKTATÁS PROG2\LA07 - BTS, generikus\program\program\obj\Debug\program.pdb
+C:\Users\Kovács András\Desktop\lancoltLista\program\bin\Debug\program.exe.config
+C:\Users\Kovács András\Desktop\lancoltLista\program\obj\Debug\program.exe
+C:\Users\Kovács András\Desktop\lancoltLista\program\obj\Debug\program.pdb
+C:\Users\Kovács András\Desktop\lancoltLista\program\bin\Debug\program.exe
+C:\Users\Kovács András\Desktop\lancoltLista\program\bin\Debug\program.pdb
+C:\Users\Kovács András\Desktop\lancoltLista\program\obj\Debug\program.csprojResolveAssemblyReference.cache

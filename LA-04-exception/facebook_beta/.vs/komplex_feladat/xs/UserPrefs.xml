@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B0312151-EACF-4449-A884-2D5422F1DDE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="komplex_feladat/Program.cs">
+    <Files>
+      <File FileName="komplex_feladat/FacebookManager.cs" Line="48" Column="61" />
+      <File FileName="komplex_feladat/Program.cs" Line="80" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.komplex__feladat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.exe.config
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.exe
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.pdb
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.csprojResolveAssemblyReference.cache
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.exe
+C:/Users/sm/Desktop/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.pdb
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.exe.config
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.exe
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/bin/Debug/kivkez_2.pdb
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.csprojResolveAssemblyReference.cache
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.exe
+/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA04 - exception/kivetelkezeles/kivkez_2/obj/Debug/kivkez_2.pdb

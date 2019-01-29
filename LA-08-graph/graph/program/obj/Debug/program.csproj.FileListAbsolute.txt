@@ -1,0 +1,7 @@
+C:\Users\sm\Desktop\program\program\bin\Debug\program.exe.config
+C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.exe.config
+C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.exe
+C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.pdb
+C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.exe
+C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.pdb
