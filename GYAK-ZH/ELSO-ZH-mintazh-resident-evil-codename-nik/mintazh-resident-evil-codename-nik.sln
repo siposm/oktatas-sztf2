@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mintazh-resident-evil-codename-nik", "mintazh-resident-evil-codename-nik\mintazh-resident-evil-codename-nik.csproj", "{644A507E-538A-48FD-822F-854351C72E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644A507E-538A-48FD-822F-854351C72E87}.Debug|x86.ActiveCfg = Debug|x86
+		{644A507E-538A-48FD-822F-854351C72E87}.Debug|x86.Build.0 = Debug|x86
+		{644A507E-538A-48FD-822F-854351C72E87}.Release|x86.ActiveCfg = Release|x86
+		{644A507E-538A-48FD-822F-854351C72E87}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

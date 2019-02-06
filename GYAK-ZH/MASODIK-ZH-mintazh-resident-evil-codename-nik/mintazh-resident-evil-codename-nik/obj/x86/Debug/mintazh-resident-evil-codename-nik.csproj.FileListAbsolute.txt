@@ -1,0 +1,12 @@
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/bin/Debug/mintazh-resident-evil-codename-nik.exe
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/bin/Debug/mintazh-resident-evil-codename-nik.pdb
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.exe
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.pdb
+/Users/siposmiki/Projects/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.csprojAssemblyReference.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/bin/Debug/mintazh-resident-evil-codename-nik.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/bin/Debug/mintazh-resident-evil-codename-nik.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.csprojAssemblyReference.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-ANYAGOK/LA12 - 2. zh/mintazh-sajat/mintazh-resident-evil-codename-nik/mintazh-resident-evil-codename-nik/obj/x86/Debug/mintazh-resident-evil-codename-nik.pdb

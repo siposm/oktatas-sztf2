@@ -132,9 +132,9 @@ namespace oroklodesalakzatok
         }
     }
 
-    class Program_1_1
+    class Program
     {
-        static void LyukasztHaTeruletNagyobbMintKerulet(Sikidom vizsgalando)
+        public static void LyukasztHaTeruletNagyobbMintKerulet(Sikidom vizsgalando)
         {
             if (vizsgalando.Terulet() > vizsgalando.Kerulet())
             {
@@ -142,7 +142,7 @@ namespace oroklodesalakzatok
             }
         }
 
-        static Sikidom TeglalapVagyNegyzetLetrehozas(string szin, double szelesseg, double magassag)
+        public static Sikidom TeglalapVagyNegyzetLetrehozas(string szin, double szelesseg, double magassag)
         {
             if (szelesseg == magassag)
             {
@@ -154,7 +154,7 @@ namespace oroklodesalakzatok
             }
         }
 
-        static Sikidom LegnagyobbTeruletuSikidom(Sikidom[] elemek)
+        public static Sikidom LegnagyobbTeruletuSikidom(Sikidom[] elemek)
         {
             int max = 0;
             for (int i = 1; i < elemek.Length; i++)
@@ -169,6 +169,7 @@ namespace oroklodesalakzatok
 
         static void Main(string[] args)
         {
+
             Sikidom[] elemek = new Sikidom[5];
 
             Kor k1 = new Kor("piros", 10);

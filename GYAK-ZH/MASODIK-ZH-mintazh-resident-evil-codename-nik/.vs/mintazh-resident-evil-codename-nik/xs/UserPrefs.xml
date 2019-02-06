@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{78FB1161-A562-43ED-8AB6-576902C7DD75}|Default">
+﻿<Properties StartupConfiguration="{644A507E-538A-48FD-822F-854351C72E87}|Default">
   <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.mintazh-resident-evil-codename-nik PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.oroklodes-alakzatok PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
