@@ -10,15 +10,12 @@ namespace AbstractVSInterface
 {
 
     // Megvalósítás abstract ősosztállyal
-    // ----------------------------------
+    // -------------------------------------------------------------------------
     abstract class Alkohol
     {
         public abstract double AlkoholTartalom();
 
-        public virtual bool Korhataros()
-        {
-            return true;
-        }
+        public abstract bool Korhataros();
     }
 
     class TomenyAlkohol : Alkohol
@@ -33,8 +30,15 @@ namespace AbstractVSInterface
         }
     }
 
+
+
+
+
+
+
+
     // Megvalósítás interface-szel
-    // --------------------------
+    // -------------------------------------------------------------------------
 
     interface IAlkohol
     {
@@ -55,6 +59,10 @@ namespace AbstractVSInterface
             return true;
         }
     }
+
+
+
+
 
 
 

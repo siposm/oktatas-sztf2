@@ -11,7 +11,6 @@ namespace oroklodes
     // Csak az átláthatóság kedvéért tettük most egymás alá-fölé!
     // 
 
-
     class Ember
     {
         // int eletkor; + getter,setter
