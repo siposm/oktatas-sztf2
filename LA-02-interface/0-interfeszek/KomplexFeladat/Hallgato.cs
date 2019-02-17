@@ -8,37 +8,11 @@ namespace KomplexFeladat
 {
     class Hallgato : IHallgatoFelulet, ITOFelulet, IOktatoFelulet
     {
-        string telefonSzam;
-        string neptunKod; 
-        string nev;
-        Targy[] targyak;
-        int targyDb;
-
-        public Targy[] Targyak
-        {
-            get { return targyak; }
-            set { targyak = value; }
-        }
-        public int TargyDb
-        {
-            get { return targyDb; }
-            //set { targyDb = value; }
-        }
-        public string TelefonSzam
-        {
-            get { return telefonSzam; }
-            set { telefonSzam = value; }
-        }
-        public string Nev
-        {
-            get { return nev; }
-            set { nev = value; }
-        }        
-        public string NeptunKod
-        {
-            get { return neptunKod; }
-            set { neptunKod = value; }
-        }
+        public Targy[] Targyak      { get; set; }
+        public int TargyDb          { get; private set; } // a kötelező dolgon felül, plusz még lehet! (private set)
+        public string TelefonSzam   { get; set; }
+        public string Nev           { get; set; }        
+        public string NeptunKod     { get; set; }
 
         public int ProgJegy
         {
@@ -48,14 +22,14 @@ namespace KomplexFeladat
             }
             set
             {
-                targyak[IndexKeres(new Targy() { Nev = "Programozás II." })].Jegy = value;
+                Targyak[IndexKeres(new Targy() { Nev = "Programozás II." })].Jegy = value;
             }
         }
 
         private int IndexKeres(Targy targy)
         {
-            for (int i = 0; i < targyDb; i++)
-                if (targyak[i].Nev == targy.Nev)
+            for (int i = 0; i < TargyDb; i++)
+                if (Targyak[i].Nev == targy.Nev)
                     return i;
             return -1;
         }
@@ -65,25 +39,21 @@ namespace KomplexFeladat
             for (int i = 0; i < Targyak.Length; i++)
             {
                 if(Targyak[i].Nev == prog.Nev)
-                {
                     return Targyak[i].Jegy;
-                }
             }
             return -1;
         }
 
         public Hallgato(int targydarabszam)
         {
-            targyak = new Targy[targydarabszam];
-            targyDb = 0;
+            Targyak = new Targy[targydarabszam];
+            TargyDb = 0;
         }
 
         public void TargyFelvesz(Targy targy)
         {
-            if (targyDb < targyak.Length)
-            {
-                targyak[targyDb++] = targy;
-            }
+            if (TargyDb < Targyak.Length)
+                Targyak[TargyDb++] = targy;
         }
 
         public void TargyListazas()
@@ -92,10 +62,8 @@ namespace KomplexFeladat
             Console.WriteLine("\tTÁRGYAK");
             Console.WriteLine("--------------------");
 
-            for (int i = 0; i < targyak.Length; i++)
-            {
-                targyak[i].AdatLeker();
-            }
+            for (int i = 0; i < Targyak.Length; i++)
+                Targyak[i].AdatLeker();
         }
     }
 }
