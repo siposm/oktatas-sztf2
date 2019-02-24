@@ -1,13 +1,8 @@
 ﻿<Properties StartupConfiguration="{269007AD-01E4-4188-8A5C-77EF78E0750C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="KomplexFeladat/Targy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KomplexFeladat/Neptun.cs">
     <Files>
-      <File FileName="KomplexFeladat/Hallgato.cs" Line="65" Column="53" />
-      <File FileName="KomplexFeladat/IHallgatoFelulet.cs" Line="1" Column="1" />
-      <File FileName="KomplexFeladat/IOktatoFelulet.cs" Line="1" Column="1" />
-      <File FileName="KomplexFeladat/ITOFelulet.cs" Line="1" Column="1" />
-      <File FileName="KomplexFeladat/Neptun.cs" Line="1" Column="1" />
-      <File FileName="KomplexFeladat/Program.cs" Line="1" Column="1" />
-      <File FileName="KomplexFeladat/Targy.cs" Line="1" Column="1" />
+      <File FileName="interfesz-oroklodes/Program.cs" Line="1" Column="1" />
+      <File FileName="KomplexFeladat/Neptun.cs" Line="62" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

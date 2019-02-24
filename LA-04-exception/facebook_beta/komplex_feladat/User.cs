@@ -10,20 +10,38 @@ namespace komplex_feladat
     {
         public string Name { get; set; }
         public int BirthYear { get; set; }
-        string role;
+        public string Role { get; private set; };
 
-        public string Role
+        public override string ToString()
         {
-            get { return role; }
+            return string.Format(
+                "{0} - ({1}) {2}",
+                Name, BirthYear, Role
+                );
         }
-        
+
+        public override bool Equals(object obj)
+        {
+            if ((obj as User).Id == this.Id)
+                return true;
+            else
+                return false;
+        }
+
+        // gethashcode-ot felül lehet írni, ám jelen tudás szerint nem szükséges
+        // így benne hagyunk mindent, csak a warning elkerülése végett rakjuk be
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
 
         public User(string name, string id, int byear, string role)
             : base(id)
         {
             this.Name = name;
             this.BirthYear = byear;
-            this.role = role;
+            this.Role = role;
         }
     }
 }
