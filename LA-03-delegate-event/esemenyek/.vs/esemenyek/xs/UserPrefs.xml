@@ -1,11 +1,7 @@
 ﻿<Properties StartupConfiguration="{E75BBE7B-898C-418B-AFA6-9C06B82E590C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="esemenyek/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="esemenykezeles_iface/Program.cs">
     <Files>
-      <File FileName="esemenykezeles_iface/Program.cs" Line="68" Column="1" />
-      <File FileName="sajat_eventargs/Program.cs" Line="1" Column="1" />
-      <File FileName="esemenykezeles_event/Program.cs" Line="1" Column="1" />
-      <File FileName="esemenykezeles_dgate/Program.cs" Line="8" Column="2" />
-      <File FileName="esemenyek/Program.cs" Line="1" Column="1" />
+      <File FileName="esemenykezeles_iface/Program.cs" Line="67" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.esemenykezeles__dgate PreferredExecutionTarget="MonoDevelop.Default" />

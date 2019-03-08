@@ -6,26 +6,24 @@ using System.Threading.Tasks;
 
 namespace kivkez_3
 {
-    class TooLongVideoTitleException : Exception // elnevezési konvenció!
+    class BaseException : Exception
     {
-        string exceptionMessage;
-        Video video;
+        public string ErrorMessage { get; set; }
+    }
 
-        public Video Video
-        {
-            get { return video; }
-            //set { video = value; }
-        }
+    class NoMoreSpaceException : BaseException
+    {
+        public YouTubeUser User { get; set; }
+    }
 
-        public string ExceptionMessage
-        {
-            get { return exceptionMessage; }
-        }
+    class TooLongVideoTitleException : BaseException // elnevezési konvenció!
+    {
+        public Video Video { get; set; }
 
         public TooLongVideoTitleException(string message, Video video)
         {
-            this.exceptionMessage = message;
-            this.video = video;
+            this.ErrorMessage = message;
+            this.Video = video;
         }
     }
 
@@ -41,6 +39,25 @@ namespace kivkez_3
 
     class YouTubeManager
     {
+        public YouTubeUser[] Users { get; set; }
+        public int ActiveUsersCount { get; set; }
+
+        public bool AddUser(YouTubeUser user)
+        {
+            if (ActiveUsersCount < Users.Length)
+            {
+                Users[ActiveUsersCount++] = user;
+                return true;
+            }
+            else
+                // metódus visszatérése lehet kivétel IS
+                throw new NoMoreSpaceException()
+                {
+                    User = user,
+                    ErrorMessage = "The array is full."
+                };
+        }
+
         public void AddVideoToUser(YouTubeUser user, Video video)
         {
             // megkeressük egy képzeletbeli adatbázisban ezt a user-t...
@@ -67,6 +84,22 @@ namespace kivkez_3
             YouTubeManager ytm = new YouTubeManager();
             YouTubeUser user = new YouTubeUser() { Name = "Neumann Janos" };
 
+            ytm.Users = new YouTubeUser[3];
+            ytm.ActiveUsersCount = 0;
+
+            try
+            {
+                ytm.AddUser(user);
+                ytm.AddUser(user);
+                ytm.AddUser(user);
+                ytm.AddUser(user);
+            }
+            catch( NoMoreSpaceException e )
+            {
+                Console.WriteLine("ERROR - " + e.ErrorMessage);
+                Console.WriteLine("User: " + e.User.Name);
+            }
+
             try
             {
                 ytm.AddVideoToUser(user, new Video() { Title = "Die Hard" });   // dob kivételt
@@ -74,7 +107,7 @@ namespace kivkez_3
             }
             catch (TooLongVideoTitleException e)
             {
-                Console.WriteLine("ERROR - " + e.ExceptionMessage);
+                Console.WriteLine("ERROR - " + e.ErrorMessage);
                 Console.WriteLine("> Problematic title: " + e.Video.Title);
             }
 
