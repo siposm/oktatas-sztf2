@@ -36,7 +36,7 @@ namespace mintazhresidentevilcodenamenik
             Console.WriteLine("[LOG]: BIO: " + this.GetType());
         }
 
-        public void ModellGeneralas()
+        private void ModellGeneralas()
         {
             Random r = new Random();
             if (r.Next(1) == 0)
