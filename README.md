@@ -10,7 +10,7 @@ Az anyagok megtalálhatók a http://users.nik.uni-obuda.hu/siposm/ elérhetősé
 
 1.) .zip letöltés: Downloads nézet » Download repository
 
-2.) cli » cél mappa » git clone https://bitbucket.org/siposm/oktatas-sztf1-18191
+2.) cli » cél mappa » git clone https://bitbucket.org/siposm/oktatas-sztf2-18192
 
 ---
 
