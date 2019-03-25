@@ -6,16 +6,24 @@ using System.Threading.Tasks;
 
 namespace bts_baratokkozt_oop
 {
-    class Ember : IComparable
+
+    enum Feladatkorok
+    {
+        Tervezés,
+        Irányítás,
+        Beszerzés,
+        Ellenőrzés,
+        Engedélyezés,
+        Érékesítés
+    }
+
+    class Ember
     {
         public string Nev { get; set; }
 
-        public int CompareTo(object obj)
+        public override bool Equals(object obj)
         {
-            if ((obj as Ember).Nev == this.Nev)
-                return 1;
-            else
-                return -1;
+            return (obj as Ember).Nev.Equals(this.Nev);
         }
 
         public override string ToString()
@@ -33,7 +41,7 @@ namespace bts_baratokkozt_oop
         {
             for (int i = 0; i < szint; i++)
                 //if (eredmenyek[i].Nev == xEmber.Nev)
-                if (eredmenyek[i].CompareTo(xEmber) == 1)
+                if (eredmenyek[i].Equals(xEmber))
                     return false;
 
             return true;
@@ -96,9 +104,20 @@ namespace bts_baratokkozt_oop
 
             BTS(0, ref E, ref van, M, R);
 
+            
+
             for (int i = 0; i < E.Length; i++)
             {
                 Console.WriteLine("{0}. szint: {1}", i, E[i]);
+            }
+
+            string[] feladatkorok = Enum.GetNames(typeof(Feladatkorok));
+
+            for (int i = 0; i < E.Length; i++)
+            {
+                Console.WriteLine("FELADATKÖR: {0} \tEMBER: {1}",
+                    feladatkorok[i], E[i]
+                    );
             }
         }
     }

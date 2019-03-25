@@ -9,8 +9,6 @@ namespace backtracksearch
     class Program
     {
 
-
-
         static bool Ft(int szint, string xEmber)
         {
             // A mi esetünkben mindig igazat ad vissza, mondván: X ember alkalmas Y feladatra
