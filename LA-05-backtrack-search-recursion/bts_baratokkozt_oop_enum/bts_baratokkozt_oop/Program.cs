@@ -24,6 +24,7 @@ namespace bts_baratokkozt_oop
         public override bool Equals(object obj)
         {
             return (obj as Ember).Nev.Equals(this.Nev);
+            //return (obj as Ember).Nev == this.Nev; // másik megvalósítás
         }
 
         public override string ToString()

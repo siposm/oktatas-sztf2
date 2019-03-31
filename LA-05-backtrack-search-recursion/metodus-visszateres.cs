@@ -14,7 +14,7 @@ namespace program
             {
                 Console.WriteLine(a);
                 a++;
-                Method(ref );
+                Method(ref a);
             }
         }
         static void Main(string[] args)
