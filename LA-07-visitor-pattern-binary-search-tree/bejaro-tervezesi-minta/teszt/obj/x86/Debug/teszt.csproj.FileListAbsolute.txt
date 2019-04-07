@@ -1,0 +1,12 @@
+/Users/siposmiki/Projects/teszt/teszt/bin/Debug/teszt.exe
+/Users/siposmiki/Projects/teszt/teszt/bin/Debug/teszt.pdb
+/Users/siposmiki/Projects/teszt/teszt/obj/x86/Debug/teszt.csprojAssemblyReference.cache
+/Users/siposmiki/Projects/teszt/teszt/obj/x86/Debug/teszt.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Projects/teszt/teszt/obj/x86/Debug/teszt.exe
+/Users/siposmiki/Projects/teszt/teszt/obj/x86/Debug/teszt.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/bin/Debug/teszt.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/bin/Debug/teszt.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/obj/x86/Debug/teszt.csprojAssemblyReference.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/obj/x86/Debug/teszt.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/obj/x86/Debug/teszt.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-07-visitor-pattern-binary-search-tree/bejaro-tervezesi-minta/teszt/obj/x86/Debug/teszt.pdb
