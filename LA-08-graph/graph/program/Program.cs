@@ -6,14 +6,6 @@ using System.Threading.Tasks;
 
 namespace program
 {
-
-	// !!!
-	//
-	// CODE: SPECIAL THANKS TO ANDRAS KOVACS
-	//
-	// !!!
-
-
 	class Graf <T>
 	{
 		List<List<T>> szomszedsagilista = new List<List<T>>();

@@ -1,7 +1,14 @@
-C:\Users\sm\Desktop\program\program\bin\Debug\program.exe.config
-C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.exe.config
-C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.exe
-C:\Users\Kovács András\Desktop\program\program\bin\Debug\program.pdb
-C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
-C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.exe
-C:\Users\Kovács András\Desktop\program\program\obj\Debug\program.pdb
+C:/Users/sm/Desktop/program/program/bin/Debug/program.exe.config
+C:/Users/Kovács András/Desktop/program/program/bin/Debug/program.exe.config
+C:/Users/Kovács András/Desktop/program/program/bin/Debug/program.exe
+C:/Users/Kovács András/Desktop/program/program/bin/Debug/program.pdb
+C:/Users/Kovács András/Desktop/program/program/obj/Debug/program.csprojResolveAssemblyReference.cache
+C:/Users/Kovács András/Desktop/program/program/obj/Debug/program.exe
+C:/Users/Kovács András/Desktop/program/program/obj/Debug/program.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/bin/Debug/program.exe.config
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/bin/Debug/program.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/bin/Debug/program.pdb
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/obj/Debug/program.csprojAssemblyReference.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/obj/Debug/program.csproj.CoreCompileInputs.cache
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/obj/Debug/program.exe
+/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-08-graph/graph/program/obj/Debug/program.pdb
