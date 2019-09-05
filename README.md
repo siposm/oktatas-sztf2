@@ -2,8 +2,6 @@
 
 A Szoftvertervezés– és Fejlesztés II. tárgyhoz tartozó laboranyagok kódjai és példái. Hasonló és egyéb anyagok megtalálhatók a http://users.nik.uni-obuda.hu/siposm/ elérhetőségemen is, célszerű azokat is megnézni.
 
-## Letöltés
-
 ## Használat
 ### Letöltés
 Clone gomb alatt a felhőre katt, mentés a kiválaszott állományban.
