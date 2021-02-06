@@ -33,11 +33,10 @@ Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétr
   - ha SOS akkor email (ld. weboldalam vagy lap alja)
 
 ##  V. Repository használata
-
-### Letöltés
+### Letöltés (mezei tömörített állományban)
 Clone gombra kattintás, majd mentés zip-ben.
 
-### Git
+### Git verziókezelő használata
 Windows esetén: töltsd le, telepítsd, indítsd el: https://git-scm.com/downloads
 
 Linux / Mac esetén, CLI-ből:
@@ -49,8 +48,6 @@ ellenőrzés: `git --version`
 Utána (Mac / Win / Linux esetén egyaránt): 
 
 `cd ~/Desktop/`\
-`mkdir sztf2-laboranyag`\
-`cd sztf2-laboranyag`\
 `git clone https://gitlab.com/siposm/oktatas-sztf2-20212.git`
 
 Későbbi "frissítések letöltése":\
