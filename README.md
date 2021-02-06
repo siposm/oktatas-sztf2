@@ -3,9 +3,12 @@
 A Szoftvertervezés és -fejlesztés II. tárgyhoz tartozó laboranyagok kódjai és példái.
 
 Kapcsolódó anyagaim:
-- https://users.nik.uni-obuda.hu/siposm/sztf2 (laborbontás + kiegészítő anyagok + hivatalos követelmények)
-- https://users.nik.uni-obuda.hu/siposm/swdd2 (angol nyelvű videók linkjei kis magyarázattal (csak a 6. labortól kezdődően))
-- https://www.youtube.com/siposm (YouTube csatorna közvetlenül)
+- laborbontás + kiegészítő anyagok + hivatalos követelmények
+  - https://users.nik.uni-obuda.hu/siposm/sztf2
+- angol nyelvű videók linkjei kis magyarázattal (csak a 6. labortól kezdődően)
+  - https://users.nik.uni-obuda.hu/siposm/swdd2
+- YouTube csatorna közvetlenül
+  - https://www.youtube.com/siposm
 
 Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétről hétre ellenőrizni ezt és igény esetén letölteni az újításokat.
 
