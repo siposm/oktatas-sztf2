@@ -1,7 +1,0 @@
-C:/Users/sm/Desktop/OnalloGyakFeladat/OnalloGyakFeladat/bin/Debug/OnalloGyakFeladat.exe.config
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/bin/Debug/OnalloGyakFeladat.exe.config
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/bin/Debug/OnalloGyakFeladat.exe
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/bin/Debug/OnalloGyakFeladat.pdb
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/obj/Debug/OnalloGyakFeladat.csproj.CoreCompileInputs.cache
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/obj/Debug/OnalloGyakFeladat.exe
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA02 - interfész/OnalloGyakFeladat/OnalloGyakFeladat/obj/Debug/OnalloGyakFeladat.pdb

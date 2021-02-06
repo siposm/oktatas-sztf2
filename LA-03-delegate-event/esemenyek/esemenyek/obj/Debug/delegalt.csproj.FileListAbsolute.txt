@@ -1,6 +1,0 @@
-C:\Users\sm\Desktop\esemenyek\esemenyek\bin\Debug\esemenyek.exe.config
-C:\Users\sm\Desktop\esemenyek\esemenyek\bin\Debug\esemenyek.exe
-C:\Users\sm\Desktop\esemenyek\esemenyek\bin\Debug\esemenyek.pdb
-C:\Users\sm\Desktop\esemenyek\esemenyek\obj\Debug\delegalt.csprojResolveAssemblyReference.cache
-C:\Users\sm\Desktop\esemenyek\esemenyek\obj\Debug\esemenyek.exe
-C:\Users\sm\Desktop\esemenyek\esemenyek\obj\Debug\esemenyek.pdb

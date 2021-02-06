@@ -1,7 +1,0 @@
-C:\Users\sm\source\repos\hashing\hashing\bin\Debug\hashing.exe.config
-C:\Users\sm\source\repos\hashing\hashing\bin\Debug\hashing.exe
-C:\Users\sm\source\repos\hashing\hashing\bin\Debug\hashing.pdb
-C:\Users\sm\source\repos\hashing\hashing\obj\Debug\hashing.csprojAssemblyReference.cache
-C:\Users\sm\source\repos\hashing\hashing\obj\Debug\hashing.csproj.CoreCompileInputs.cache
-C:\Users\sm\source\repos\hashing\hashing\obj\Debug\hashing.exe
-C:\Users\sm\source\repos\hashing\hashing\obj\Debug\hashing.pdb

@@ -1,6 +1,0 @@
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/bin/Debug/interfesz-oroklodes.exe.config
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/bin/Debug/interfesz-oroklodes.exe
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/bin/Debug/interfesz-oroklodes.pdb
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/obj/Debug/04_interfesz-kiterjesztes.csproj.CoreCompileInputs.cache
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/obj/Debug/interfesz-oroklodes.exe
-/Users/siposmiki/Documents/_OKTATÁS PROG2/LA02 - interface/interfeszek/interfesz-oroklodes/obj/Debug/interfesz-oroklodes.pdb

@@ -1,6 +1,0 @@
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\bin\Debug\IComperableTeszt.exe.config
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\bin\Debug\IComperableTeszt.exe
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\bin\Debug\IComperableTeszt.pdb
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\obj\Debug\IComperableTeszt.exe
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\obj\Debug\IComperableTeszt.pdb
-C:\Users\sm\Desktop\interfeszek\IComperableTeszt\obj\Debug\IComperableTeszt.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/bin/Debug/oop-haladobb-felepites.exe
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/bin/Debug/oop-haladobb-felepites.pdb
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/obj/x86/Debug/oop-haladobb-felepites.csprojAssemblyReference.cache
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/obj/x86/Debug/oop-haladobb-felepites.csproj.CoreCompileInputs.cache
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/obj/x86/Debug/oop-haladobb-felepites.exe
-/Users/siposmiki/Desktop/oop-haladobb-felepites/oop-haladobb-felepites/obj/x86/Debug/oop-haladobb-felepites.pdb

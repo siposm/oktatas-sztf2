@@ -1,6 +1,0 @@
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/bin/Debug/oroklodes-alakzatok.exe
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/bin/Debug/oroklodes-alakzatok.pdb
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/obj/x86/Debug/oroklodes-alakzatok.csprojAssemblyReference.cache
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/obj/x86/Debug/oroklodes-alakzatok.csproj.CoreCompileInputs.cache
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/obj/x86/Debug/oroklodes-alakzatok.exe
-/Users/siposmiki/Documents/OKTATÁS/SZTF2/LABOR-GIT-KODOK/oktatas-sztf2-18192/LA-01-inheritance-polymorfism/3-oroklodes-alakzatok/oroklodes-alakzatok/obj/x86/Debug/oroklodes-alakzatok.pdb

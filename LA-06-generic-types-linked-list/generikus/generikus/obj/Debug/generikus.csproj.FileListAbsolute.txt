@@ -1,9 +1,0 @@
-C:\Users\sm\Desktop\generikus\generikus\bin\Debug\generikus.exe.config
-C:\Users\sm\Desktop\generikus\generikus\bin\Debug\generikus.exe
-C:\Users\sm\Desktop\generikus\generikus\bin\Debug\generikus.pdb
-C:\Users\sm\Desktop\generikus\generikus\obj\Debug\generikus.csprojResolveAssemblyReference.cache
-C:\Users\sm\Desktop\generikus\generikus\obj\Debug\generikus.exe
-C:\Users\sm\Desktop\generikus\generikus\obj\Debug\generikus.pdb
-C:\Users\Kovács András\Desktop\generikus\generikus\bin\Debug\generikus.exe.config
-C:\Users\Kovács András\Desktop\generikus\generikus\obj\Debug\generikus.exe
-C:\Users\Kovács András\Desktop\generikus\generikus\obj\Debug\generikus.pdb

@@ -1,9 +1,0 @@
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\bin\Debug\KomplexFeladat.exe.config
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\obj\Debug\KomplexFeladat.csprojResolveAssemblyReference.cache
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\bin\Debug\KomplexFeladat.exe
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\bin\Debug\KomplexFeladat.pdb
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\obj\Debug\KomplexFeladat.exe
-C:\Users\sm\Desktop\interfeszek\KomplexFeladat\obj\Debug\KomplexFeladat.pdb
-\\Mac\Home\Documents\_OKTATÁS PROG2\LA02 - interface\interfeszek\KomplexFeladat\bin\Debug\KomplexFeladat.exe.config
-\\Mac\Home\Documents\_OKTATÁS PROG2\LA02 - interface\interfeszek\KomplexFeladat\obj\Debug\KomplexFeladat.exe
-\\Mac\Home\Documents\_OKTATÁS PROG2\LA02 - interface\interfeszek\KomplexFeladat\obj\Debug\KomplexFeladat.pdb

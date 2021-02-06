@@ -1,5 +1,0 @@
-C:\Users\sm\Desktop\oroklodes\la01_2_oroklodes_konstruktor\bin\Debug\la01_2_oroklodes_konstruktor.exe.config
-C:\Users\sm\Desktop\oroklodes\la01_2_oroklodes_konstruktor\bin\Debug\la01_2_oroklodes_konstruktor.exe
-C:\Users\sm\Desktop\oroklodes\la01_2_oroklodes_konstruktor\bin\Debug\la01_2_oroklodes_konstruktor.pdb
-C:\Users\sm\Desktop\oroklodes\la01_2_oroklodes_konstruktor\obj\Debug\la01_2_oroklodes_konstruktor.exe
-C:\Users\sm\Desktop\oroklodes\la01_2_oroklodes_konstruktor\obj\Debug\la01_2_oroklodes_konstruktor.pdb

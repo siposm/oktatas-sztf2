@@ -1,7 +1,0 @@
-C:/Users/sm/Desktop/program/program/bin/Debug/program.exe.config
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/bin/Debug/program.exe.config
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/bin/Debug/program.exe
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/bin/Debug/program.pdb
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/obj/Debug/program.csproj.CoreCompileInputs.cache
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/obj/Debug/program.exe
-/Users/siposmiki/Documents/_OKTATÁS SZTF2/LA05 - rekurzio, BTS/program/program/obj/Debug/program.pdb

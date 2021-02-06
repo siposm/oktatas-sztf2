@@ -1,6 +1,0 @@
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\bin\Debug\kivetelkezeles.exe.config
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\obj\Debug\kivetelkezeles.csprojResolveAssemblyReference.cache
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\bin\Debug\kivetelkezeles.exe
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\bin\Debug\kivetelkezeles.pdb
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\obj\Debug\kivetelkezeles.exe
-C:\Users\sm\Desktop\kivetelkezeles\kivetelkezeles\obj\Debug\kivetelkezeles.pdb

@@ -1,6 +1,0 @@
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\bin\Debug\esemenykezeles_event.exe.config
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\bin\Debug\esemenykezeles_event.exe
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\bin\Debug\esemenykezeles_event.pdb
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\obj\Debug\esemenykezeles_event.csprojResolveAssemblyReference.cache
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\obj\Debug\esemenykezeles_event.exe
-C:\Users\sm\Desktop\esemenyek\esemenykezeles_event\obj\Debug\esemenykezeles_event.pdb
