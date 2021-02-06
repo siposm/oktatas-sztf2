@@ -14,7 +14,7 @@ Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétr
 
 ### Laborgyakorlatok menete
 - adott heti hivatalos labor videóit megnézni
-- felmerülő kérdés → megkeresés
+- felmerülő kérdés → megkeresés labor időben
 - önálló feladat megoldása és leadása a hét végi határidőig
 - ezeken felüli anyagok saját részről feldolgozhatók tetszés szerint (lásd fentebbi linkeken elérhető szöveges vagy videós anyagok)
 
