@@ -1,6 +1,6 @@
-## Általános információk
+## I. Általános információk
 
-A Szoftvertervezés és -fejlesztés II. tárgyhoz tartozó laboranyagok kódjai és példái.
+A Szoftvertervezés és -fejlesztés II. tárgyhoz tartozó laboranyagok kódjai és példái. 
 
 Kapcsolódó anyagaim:
 - laborbontás + kiegészítő anyagok + hivatalos követelmények
@@ -12,18 +12,18 @@ Kapcsolódó anyagaim:
 
 Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétről hétre ellenőrizni ezt és igény esetén letölteni az újításokat.
 
-### Laborgyakorlatok menete
+## II. Laborgyakorlatok menete
 - adott heti hivatalos labor videóit megnézni
 - felmerülő kérdés → megkeresés labor időben
 - önálló feladat megoldása és leadása a hét végi határidőig
 - ezeken felüli anyagok saját részről feldolgozhatók tetszés szerint (lásd fentebbi linkeken elérhető szöveges vagy videós anyagok)
 
-### ZH információk
+## III. ZH információk
 - központi, órarenden kívül (várhatóan péntek du.)
 - tárgyfelelős állítja össze
 - laborvezető értékeli, javítja
 
-### Kommunikációs felület
+## IV. Kommunikációs felület
 - Teams csoport
   - törekedjünk (!!!) a közös channelbe írni az esetleges kérdéseket
   - privát megkeresések tényleg csak indokolt (=privát) téma kapcsán történjenek
@@ -32,12 +32,12 @@ Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétr
   - alapvetően ritkábban vagyok ott elérhető
   - ha SOS akkor email (ld. weboldalam vagy lap alja)
 
-###  Repository használata
+##  V. Repository használata
 
-#### Letöltés
+### Letöltés
 Clone gombra kattintás, majd mentés zip-ben.
 
-#### Git
+### Git
 Windows esetén: töltsd le, telepítsd, indítsd el: https://git-scm.com/downloads
 
 Linux / Mac esetén, CLI-ből:
