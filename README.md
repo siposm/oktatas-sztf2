@@ -61,7 +61,7 @@ ellenőrzés: `git --version`
 Utána (Mac / Win / Linux esetén egyaránt): 
 
 `cd ~/Desktop/`\
-`git clone https://gitlab.com/siposm/oktatas-sztf2-20212.git`
+`git clone https://github.com/siposm/oktatas-sztf2-20212.git`
 
 Későbbi "frissítések letöltése":\
 `git pull` a gyökérmappából
