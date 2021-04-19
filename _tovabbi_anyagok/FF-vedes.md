@@ -18,6 +18,7 @@ Ezen felül viszont szeretnék mindenkitől kérni egy videót az alábbiakat be
 A videóban kerüljenek bemutatásra a következők:
 - program indítása
 - az elvárt funkciók működése (ehhez a szükséges lépéseket a konzolon írd be / tedd meg és közben magyarázd, hogy mi történik)
+- szükséges bemutatni, hogy a program nem csak 1 féle bemenetre működik; ha a bemeneti paraméterek (pl. X objektum Y objektumra történő cseréje) befolyásolják a kimenetet
 - a kódállomány legyen bemutatva, kitérve benne a főbb részekre
     - osztályok és azok hierarchiája
     - az optimalizálást végző algoritmus
