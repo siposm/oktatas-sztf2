@@ -10,7 +10,7 @@ Kapcsolódó anyagaim:
 - YouTube csatorna közvetlenül
   - https://www.youtube.com/siposm
 
-Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes hétről hétre ellenőrizni ezt és igény esetén letölteni az újításokat.
+Az anyagok esetlegesen frissülhetnek a félév folyamán, ezért érdemes bekövetni GitHub-on és becsillagozni a repót. Ezt követően (bejelentkezve) a saját GitHub főoldalon mindenki láthatja, ha frissítek valamit.
 
 <br><br>
 
@@ -26,4 +26,4 @@ sipos.miklos@nik.uni-obuda.hu\
 https://nik.siposm.hu \
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és -fejlesztés Intézet\
-2020 - 2021 - 2 félév
+2023 - 2024 - 2 félév
