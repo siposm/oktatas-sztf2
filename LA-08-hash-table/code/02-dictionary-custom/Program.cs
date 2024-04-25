@@ -19,26 +19,26 @@
             Console.WriteLine(a[h2]);
         }
 
-        static void SajatHashTeszt()
+        static void HashTest()
         {
-            HashTable<string, int> hashTable = new HashTableWithLinkedList<string, int>(200);
-            hashTable.Add("Peti", 1000);
-            hashTable.Add("Laci", 500);
-            hashTable.Add("Klari", 1500);
-            hashTable.Add("Bela", 800);
-            hashTable.Add("Csilla", 1800);
+            HashTable<string, Person> hashTable = new HashTableWithLinkedList<string, Person>(200);
+            hashTable.Add("ASD123", new Person() { Name = "Test Person 1" });
+            hashTable.Add("KFL231", new Person() { Name = "Test Person 2" });
+            hashTable.Add("JKL456", new Person() { Name = "Test Person 3" });
+            hashTable.Add("NFA189", new Person() { Name = "Test Person 4" });
+            hashTable.Add("MDL778", new Person() { Name = "Test Person 5" });
 
-            Console.WriteLine(hashTable.Find("Peti"));
-            Console.WriteLine(hashTable.Find("Laci"));
-            Console.WriteLine(hashTable.Find("Klari"));
-            Console.WriteLine(hashTable.Find("Bela"));
-            Console.WriteLine(hashTable.Find("Csilla"));
+            Console.WriteLine(hashTable.Find("ASD123"));
+            Console.WriteLine(hashTable.Find("KFL231"));
+            Console.WriteLine(hashTable.Find("JKL456"));
+            Console.WriteLine(hashTable.Find("NFA189"));
+            Console.WriteLine(hashTable.Find("MDL778"));
         }
 
         static void Main(string[] args)
         {
             //HashError();
-            SajatHashTeszt();
+            HashTest();
         }
     }
 }

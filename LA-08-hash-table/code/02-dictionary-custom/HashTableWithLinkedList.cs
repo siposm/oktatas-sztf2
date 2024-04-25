@@ -5,8 +5,8 @@
         class HashItem
         {
             public K key;
-            public T tart;
-            public HashItem kov;
+            public T value;
+            public HashItem next;
         }
 
         HashItem[] A;
@@ -20,17 +20,17 @@
         {
             HashItem newItem = new HashItem();
             newItem.key = key;
-            newItem.tart = value;
-            newItem.kov = A[h(key)];
+            newItem.value = value;
+            newItem.next = A[h(key)];
             A[h(key)] = newItem;
         }
 
         public override T Find(K key)
         {
             HashItem p = A[h(key)];
-            while (p != null && !p.key.Equals(key)) p = p.kov;
+            while (p != null && !p.key.Equals(key)) p = p.next;
             if (p != null)
-                return p.tart;
+                return p.value;
             else
                 throw new NoSuchKeyHashException("Error happened!");
         }
@@ -42,14 +42,14 @@
             while (p != null && !p.key.Equals(key))
             {
                 e = p;
-                p = p.kov;
+                p = p.next;
             }
 
             if (p != null)
                 if (e == null)
-                    A[h(key)] = p.kov;
+                    A[h(key)] = p.next;
                 else
-                    e.kov = p.kov;
+                    e.next = p.next;
             else
                 throw new NoSuchKeyHashException("Error happened!");
         }

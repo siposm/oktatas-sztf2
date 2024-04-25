@@ -5,7 +5,7 @@
         class HashItem
         {
             public K key;
-            public T tart;
+            public T value;
             public bool deleted = false;
         }
 
@@ -31,7 +31,7 @@
             if (j < size)
             {
                 A[h(key, j)].key = key;
-                A[h(key, j)].tart = value;
+                A[h(key, j)].value = value;
                 A[h(key, j)].deleted = false;
             }
             else throw new NoSpaceHashException("Error happened!");
@@ -44,7 +44,7 @@
 
             if (j < size && A[h(key, j)].key != null)
             {
-                return A[h(key, j)].tart;
+                return A[h(key, j)].value;
             }
             else
                 throw new NoSuchKeyHashException("Error happened!");
